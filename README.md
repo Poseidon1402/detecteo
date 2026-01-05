@@ -1,4 +1,4 @@
-# Detect It
+# Detecteo
 
 Real-time object detection Flutter app powered by **Ultralytics YOLO**.
 
